@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #EACCFF;
+    justify-content: center
+}
+
+img {
+    justify-content: flex-start;
+}
+
