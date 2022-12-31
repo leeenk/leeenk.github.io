@@ -5,9 +5,10 @@ body {
 }
 
 
-/* img {
-
-} */
+img {
+    width: 300px;
+    height: 400px;
+}
 
 .intro-container {
     display: flex;
@@ -66,3 +67,25 @@ body {
     border-radius: 150px;
 }
 
+
+.portfolio-container {
+    padding: 50px 50px 0px 0px;
+    display: flex;
+    align-items: center;
+    background-color: #ae64e3;
+
+}
+
+#port-header {
+    padding: 26px;
+    flex-direction: row;
+    font-size: 50px;
+    font-weight: bolder;
+    justify-content: center;
+    align-self: flex-start;
+}
+
+#port-contents {
+    flex-direction: row;
+
+}
