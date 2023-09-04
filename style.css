@@ -10,6 +10,10 @@ img {
     height: 400px;
 }
 
+.pdf:hover{
+    transform:scale(2.5);
+}
+
 .intro-container {
     display: flex;
     align-items: center;
